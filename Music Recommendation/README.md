@@ -18,7 +18,8 @@ Utilization of lyrics data for insights and training a neural network model to p
 Evaluation of model performance using standard metrics like Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
 
 <p align='center'> <h1>Model Pipeline</h1> </p>
-<img width="1183" alt="image" src="https://github.com/NivedhaBalakrishnan/Recommendation_Systems/assets/50318272/e919e9ec-c4b1-48c2-a129-4ea3aefd3090">
+<img width="1180" alt="image" src="https://github.com/NivedhaBalakrishnan/Recommendation_Systems/assets/50318272/3f9fd5ec-f04a-4e4d-962a-63bdaa7c4a56">
+
 
 
 
