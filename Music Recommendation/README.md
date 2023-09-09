@@ -2,7 +2,7 @@
 Movie Recommendation Systems
 
 <b>Project objective</b>: Create a music recommendation system using the Million Song Dataset's Taste profile dataset.
-<b>Dataset details</b>: Includes real user-song-play count triplets, artist and song metadata (artist name, title, artist hotness, release year, duration, etc.).
+<b>Dataset details</b>: Includes real user-song-play count triplets, artist, and song metadata (artist name, title, artist hotness, release year, duration, etc.).
 <b>Project tasks</b>:
 - Data preprocessing
 - Exploratory data analysis
@@ -18,6 +18,7 @@ Utilization of lyrics data for insights and training a neural network model to p
 Evaluation of model performance using standard metrics like Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
 
 <p align='center'> <h1>Model Pipeline</h1> </p>
-<img width="1174" alt="image" src="https://github.com/NivedhaBalakrishnan/Recommendation_Systems/assets/50318272/ac3eeb3b-b942-44d0-a874-6c8e31a692cd">
+<img width="1183" alt="image" src="https://github.com/NivedhaBalakrishnan/Recommendation_Systems/assets/50318272/e919e9ec-c4b1-48c2-a129-4ea3aefd3090">
+
 
 
